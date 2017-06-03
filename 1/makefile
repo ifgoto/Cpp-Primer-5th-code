@@ -1,7 +1,7 @@
 # executable files for this directory
 OBJECTS = add.exe add_item.exe add_item2.exe avg_price.exe \
 		  for_ex.exe forcount.exe item_io.exe \
-		  main_only.exe mysum.exe occurs.exe whilecount.exe 
+		  main_only.exe mysum.exe occurs.exe whilecount.exe main_return-1.exe
 
 # tells make to use the file "../GNU_makefile_template", which
 # defines general rules for making .o and .exe files
